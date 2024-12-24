@@ -1,0 +1,11 @@
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.config
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.exe.config
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.exe
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.pdb
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.dll
+C:\Users\chort\source\repos\NLog\NLog\bin\Debug\NLog.xml
+C:\Users\chort\source\repos\NLog\NLog\obj\Debug\NLogPr.csproj.AssemblyReference.cache
+C:\Users\chort\source\repos\NLog\NLog\obj\Debug\NLogPr.csproj.CoreCompileInputs.cache
+C:\Users\chort\source\repos\NLog\NLog\obj\Debug\NLogPr.csproj.Up2Date
+C:\Users\chort\source\repos\NLog\NLog\obj\Debug\NLog.exe
+C:\Users\chort\source\repos\NLog\NLog\obj\Debug\NLog.pdb
